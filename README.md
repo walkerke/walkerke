@@ -1,6 +1,6 @@
 Welcome!  I'm Kyle Walker, and here is some information about my current work: 
 
-* I'm an R developer actively developing the following packages: 
+* I'm an R developer actively working on the following packages: 
   * [tidycensus](https://github.com/walkerke/tidycensus), which helps R users get demographic & spatial data from the US Census Bureau ready-to-go for use in their analyses;
   * [tigris](https://github.com/walkerke/tigris), which downloads US Census Bureau spatial data and loads it directly into R as simple features objects;
   * [mapboxapi](https://github.com/walkerke/mapboxapi), an R interface to [Mapbox web services](https://docs.mapbox.com/api/).  Use the package to optimize routes, draw isochrones, read and write vector tiles, use custom Mapbox maps in Leaflet projects, and more;
