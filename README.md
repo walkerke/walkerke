@@ -1,5 +1,6 @@
 Welcome!  I'm Kyle Walker, and here is some information about my current work: 
 
+* I'm the author of [_Analyzing US Census Data: Methods, Maps, and Models in R_](https://walker-data.com/census-r/index.html), available to read online for free and forthcoming in print with CRC Press in 2022.
 * I'm an R developer actively working on the following packages: 
   * [tidycensus](https://github.com/walkerke/tidycensus), which helps R users get demographic & spatial data from the US Census Bureau ready-to-go for use in their analyses;
   * [tigris](https://github.com/walkerke/tigris), which downloads US Census Bureau spatial data and loads it directly into R as simple features objects;
